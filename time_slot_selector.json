@@ -61,7 +61,7 @@
           "id": "slot_20260828_1300",
           "start_time": "13:00",
           "end_time": "13:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1330",
@@ -163,7 +163,7 @@
           "id": "slot_20260829_1300",
           "start_time": "13:00",
           "end_time": "13:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1330",
@@ -265,7 +265,7 @@
           "id": "slot_20260830_1300",
           "start_time": "13:00",
           "end_time": "13:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1330",
@@ -367,7 +367,7 @@
           "id": "slot_20260831_1300",
           "start_time": "13:00",
           "end_time": "13:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1330",
@@ -469,7 +469,7 @@
           "id": "slot_20260901_1300",
           "start_time": "13:00",
           "end_time": "13:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1330",
@@ -571,7 +571,7 @@
           "id": "slot_20260902_1300",
           "start_time": "13:00",
           "end_time": "13:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260902_1330",
@@ -673,7 +673,7 @@
           "id": "slot_20260903_1300",
           "start_time": "13:00",
           "end_time": "13:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260903_1330",
