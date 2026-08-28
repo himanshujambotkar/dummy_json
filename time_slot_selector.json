@@ -13,49 +13,49 @@
           "id": "slot_20260828_0900",
           "start_time": "09:00",
           "end_time": "09:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_0930",
           "start_time": "09:30",
           "end_time": "10:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1000",
           "start_time": "10:00",
           "end_time": "10:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1030",
           "start_time": "10:30",
           "end_time": "11:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1100",
           "start_time": "11:00",
           "end_time": "11:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1130",
           "start_time": "11:30",
           "end_time": "12:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1200",
           "start_time": "12:00",
           "end_time": "12:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1230",
           "start_time": "12:30",
           "end_time": "13:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1300",
@@ -67,43 +67,43 @@
           "id": "slot_20260828_1330",
           "start_time": "13:30",
           "end_time": "14:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1400",
           "start_time": "14:00",
           "end_time": "14:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1430",
           "start_time": "14:30",
           "end_time": "15:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1500",
           "start_time": "15:00",
           "end_time": "15:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1530",
           "start_time": "15:30",
           "end_time": "16:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1600",
           "start_time": "16:00",
           "end_time": "16:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260828_1630",
           "start_time": "16:30",
           "end_time": "17:00",
-          "is_available": false
+          "is_available": true
         }
       ]
     },
@@ -115,49 +115,49 @@
           "id": "slot_20260829_0900",
           "start_time": "09:00",
           "end_time": "09:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_0930",
           "start_time": "09:30",
           "end_time": "10:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1000",
           "start_time": "10:00",
           "end_time": "10:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1030",
           "start_time": "10:30",
           "end_time": "11:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1100",
           "start_time": "11:00",
           "end_time": "11:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1130",
           "start_time": "11:30",
           "end_time": "12:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1200",
           "start_time": "12:00",
           "end_time": "12:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1230",
           "start_time": "12:30",
           "end_time": "13:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1300",
@@ -169,43 +169,43 @@
           "id": "slot_20260829_1330",
           "start_time": "13:30",
           "end_time": "14:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1400",
           "start_time": "14:00",
           "end_time": "14:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1430",
           "start_time": "14:30",
           "end_time": "15:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1500",
           "start_time": "15:00",
           "end_time": "15:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1530",
           "start_time": "15:30",
           "end_time": "16:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1600",
           "start_time": "16:00",
           "end_time": "16:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260829_1630",
           "start_time": "16:30",
           "end_time": "17:00",
-          "is_available": false
+          "is_available": true
         }
       ]
     },
@@ -217,49 +217,49 @@
           "id": "slot_20260830_0900",
           "start_time": "09:00",
           "end_time": "09:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_0930",
           "start_time": "09:30",
           "end_time": "10:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1000",
           "start_time": "10:00",
           "end_time": "10:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1030",
           "start_time": "10:30",
           "end_time": "11:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1100",
           "start_time": "11:00",
           "end_time": "11:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1130",
           "start_time": "11:30",
           "end_time": "12:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1200",
           "start_time": "12:00",
           "end_time": "12:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1230",
           "start_time": "12:30",
           "end_time": "13:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1300",
@@ -271,43 +271,43 @@
           "id": "slot_20260830_1330",
           "start_time": "13:30",
           "end_time": "14:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1400",
           "start_time": "14:00",
           "end_time": "14:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1430",
           "start_time": "14:30",
           "end_time": "15:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1500",
           "start_time": "15:00",
           "end_time": "15:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1530",
           "start_time": "15:30",
           "end_time": "16:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1600",
           "start_time": "16:00",
           "end_time": "16:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260830_1630",
           "start_time": "16:30",
           "end_time": "17:00",
-          "is_available": false
+          "is_available": true
         }
       ]
     },
@@ -319,49 +319,49 @@
           "id": "slot_20260831_0900",
           "start_time": "09:00",
           "end_time": "09:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_0930",
           "start_time": "09:30",
           "end_time": "10:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1000",
           "start_time": "10:00",
           "end_time": "10:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1030",
           "start_time": "10:30",
           "end_time": "11:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1100",
           "start_time": "11:00",
           "end_time": "11:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1130",
           "start_time": "11:30",
           "end_time": "12:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1200",
           "start_time": "12:00",
           "end_time": "12:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1230",
           "start_time": "12:30",
           "end_time": "13:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1300",
@@ -373,43 +373,43 @@
           "id": "slot_20260831_1330",
           "start_time": "13:30",
           "end_time": "14:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1400",
           "start_time": "14:00",
           "end_time": "14:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1430",
           "start_time": "14:30",
           "end_time": "15:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1500",
           "start_time": "15:00",
           "end_time": "15:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1530",
           "start_time": "15:30",
           "end_time": "16:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1600",
           "start_time": "16:00",
           "end_time": "16:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260831_1630",
           "start_time": "16:30",
           "end_time": "17:00",
-          "is_available": false
+          "is_available": true
         }
       ]
     },
@@ -427,43 +427,43 @@
           "id": "slot_20260901_0930",
           "start_time": "09:30",
           "end_time": "10:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1000",
           "start_time": "10:00",
           "end_time": "10:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1030",
           "start_time": "10:30",
           "end_time": "11:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1100",
           "start_time": "11:00",
           "end_time": "11:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1130",
           "start_time": "11:30",
           "end_time": "12:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1200",
           "start_time": "12:00",
           "end_time": "12:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1230",
           "start_time": "12:30",
           "end_time": "13:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1300",
@@ -475,43 +475,43 @@
           "id": "slot_20260901_1330",
           "start_time": "13:30",
           "end_time": "14:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1400",
           "start_time": "14:00",
           "end_time": "14:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1430",
           "start_time": "14:30",
           "end_time": "15:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1500",
           "start_time": "15:00",
           "end_time": "15:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1530",
           "start_time": "15:30",
           "end_time": "16:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1600",
           "start_time": "16:00",
           "end_time": "16:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260901_1630",
           "start_time": "16:30",
           "end_time": "17:00",
-          "is_available": false
+          "is_available": true
         }
       ]
     },
@@ -523,43 +523,43 @@
           "id": "slot_20260902_0900",
           "start_time": "09:00",
           "end_time": "09:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260902_0930",
           "start_time": "09:30",
           "end_time": "10:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260902_1000",
           "start_time": "10:00",
           "end_time": "10:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260902_1030",
           "start_time": "10:30",
           "end_time": "11:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260902_1100",
           "start_time": "11:00",
           "end_time": "11:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260902_1130",
           "start_time": "11:30",
           "end_time": "12:00",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260902_1200",
           "start_time": "12:00",
           "end_time": "12:30",
-          "is_available": false
+          "is_available": true
         },
         {
           "id": "slot_20260902_1230",
