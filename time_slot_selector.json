@@ -1,0 +1,39 @@
+{
+  "booking_page_id": "page_98765",
+  "business_hours": {
+    "open": "09:00",
+    "close": "17:00"
+  },
+  "schedule": [
+    {
+      "date": "2026-08-28",
+      "isHoliday": false,
+      "slots": [
+        {
+          "id": "slot_20260828_0900",
+          "start_time": "09:00",
+          "end_time": "09:30",
+          "is_available": true
+        },
+        {
+          "id": "slot_20260828_0930",
+          "start_time": "09:30",
+          "end_time": "10:00",
+          "is_available": false
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "isHoliday": true,
+      "slots": [
+        {
+          "id": "slot_20260829_0900",
+          "start_time": "09:00",
+          "end_time": "09:30",
+          "is_available": true
+        }
+      ]
+    }
+  ]
+}
